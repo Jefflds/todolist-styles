@@ -1,0 +1,4 @@
+npm install
+npm create vite
+npm run dev
+npm install bootstrap react-bootstrap react-icons styled-components
